@@ -1,5 +1,4 @@
 ### Julius
-[![Julius's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliusgeo)](https://github.com/anuraghazra/github-readme-stats)
 
 I love math, rally racing video games, statistics, and number theory (in that order).
  - I implemented the Gauss Legendre algorithm in Julia to generate 20 million digits of [Pi in under 1 minute](https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a)
