@@ -5,6 +5,7 @@ My primary professional experience has been maintaining PyMongo, PyMongoArrow, M
 Before that I did a research project utilizing advanced NLP techniques to categorize patents.
 
 Recent projects:
+ - I implemented a (somewhat) branchless version of the binary search algorithm that beats the `bisect` module in terms of speed using C-extensions. See the [`README`](https://github.com/juliusgeo/branchless_bisect) for more details: 
  - I implemented the Gauss Legendre algorithm in Julia to generate 20 million digits of [Pi in under 1 minute](https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a)
  - I implemented complete Binary Finite Field Arithmetic in Python using bitwise operators on integers: [bff](https://gist.github.com/juliusgeo/9e4eff4c0519f7f7b9af122d59a3253e)
  - Using that arithmetic, I then proved it worked by calculating the [Rijdnael S-Box in less than 512 bytes (and it also spells out AES)](https://gist.github.com/juliusgeo/969c722b2152e53e4f6bb94ca2696c7a).
