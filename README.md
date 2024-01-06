@@ -14,4 +14,4 @@ Recent projects:
 I also love messing around with the Python interpreter and internals:
  - I made a concurrency fuzzer that injects byte-code to opportunistically release the Global Interpreter Lock called [Confuzzion](https://github.com/juliusgeo/confuzzion)
  - I made a transpiler from Python to MongoDB Aggregations called [PyMongoAgg](https://github.com/juliusgeo/PyMongoAgg)
- - I made a tool that will automatically reflow Python code into any piece of ASCII art called [PyFlate](https://github.com/juliusgeo/pyflate)
+ - I made a tool that transpiles Python code into expression-only syntax (lambda functions and list comprehensions only), in addition to reflowing that code into ASCII art called [Exprify](https://github.com/juliusgeo/exprify)
