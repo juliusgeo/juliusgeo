@@ -1,8 +1,6 @@
 ### Julius
 
 I love math, rally racing video games, statistics, and number theory (in that order).
-My primary professional experience has been maintaining PyMongo, PyMongoArrow, Motor, and PyMongoExplain.
-Before that I did a research project utilizing advanced NLP techniques to categorize patents.
 
 Recent projects:
  - a tool that transpiles Python code into expression-only syntax (lambda functions and list comprehensions only), in addition to reflowing that code into ASCII art called [Exprify](https://github.com/juliusgeo/exprify)
